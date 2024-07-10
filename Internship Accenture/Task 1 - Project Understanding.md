@@ -67,3 +67,8 @@ Can’t access the video? See the summary slide of your team here. Notice how th
 - **Data experts** who will provide Big Data insights and content category analysis. This is where - you sit!
 
 [Accenture Project Team](https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664297460699/Internal%20stakeholder%20chart.pdf)
+
+# Quiz
+
+![[Pasted image 20240710171519.png]]
+
