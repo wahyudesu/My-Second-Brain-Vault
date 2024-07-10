@@ -1,0 +1,1 @@
+titik perpotongan antara garis regresi dengan sumbu y. Intercept juga dapat didefinisikan sebagai nilai rata-rata dari variabel terikat ketika variabel bebas bernilai nol.

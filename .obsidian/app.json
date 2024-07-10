@@ -1,0 +1,9 @@
+{
+  "strictLineBreaks": true,
+  "trashOption": "local",
+  "promptDelete": false,
+  "attachmentFolderPath": "Attachment",
+  "showRibbon": true,
+  "newFileLocation": "current",
+  "propertiesInDocument": "source"
+}

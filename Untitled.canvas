@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3b9f2b0d68cb1c93","x":-43,"y":-257,"width":143,"height":57,"type":"text","text":"Mondok"},
+		{"id":"ce6f18f3a9048aab","x":140,"y":-257,"width":180,"height":57,"type":"text","text":"Ikut tim robot"},
+		{"id":"d8624e410c75b13a","x":-80,"y":-180,"width":180,"height":80,"type":"text","text":"Magang diluar data science "},
+		{"id":"c0c6102ddd9a861b","x":140,"y":-180,"width":180,"height":80,"type":"text","text":"Magang ML/AI "},
+		{"id":"ec4680fbe50e72c3","x":-80,"y":-60,"width":180,"height":80,"type":"text","text":"Project Pribadi/Lomba"},
+		{"id":"a0b3fead1ac49f4d","x":140,"y":-60,"width":180,"height":80,"type":"text","text":"Virtual Internship"},
+		{"id":"f2fbf17dec42d410","x":-80,"y":60,"width":180,"height":80,"type":"text","text":"Nulis Blog pribadi"},
+		{"id":"feee0cec2b58cb0d","x":140,"y":60,"width":180,"height":80,"type":"text","text":"Nulis article ttg kuliyah/ML/Ai"}
+	],
+	"edges":[]
+}

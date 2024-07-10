@@ -1,0 +1,37 @@
+Saya di sini mau ngomongin Pak Luhut Binsar Panjaitan.
+
+Saya kasih tahu konteksnya kenapa saya pengen ngomongin Pak Luhut Binsar Panjaitan. Sebenarnya ini adalah pesan untuk semua capres, entah karena masih di ruangan ini, masih di gedung ini, atau nonton lewat streaming. Saya mau nitip siapapun yang jadi presiden, pas nyusun kabinet, tolong dipertimbangkan komposisi menteri-menteri, supaya nggak seperti sekarang.
+
+Saat ini ada satu yang ibaratnya istilah game ini agak-agak OP (overpower), overpower satu agak berlebihan yang satu biasa-biasa saja. Ibarat ke-11-an ada kesebelasan, satu Lionel Messi sisanya Atep. Bagus, Atep bagus, tapi Lionel Messi kejauhan.
+
+Keresahan ini kita semua ngerti kenapa, karena setiap kali ada penunjukan pasti Pak Luhut lagi, pak luhut lagi. Pak Luhut ngurus PPKN Jawa Bali, ngurus sumber daya air, ngurus minyak, ngurus 15 danau. Kemarin ditunjuk Pak Jokowi untuk ngurus polusi Jabodetabek. Perhatiin baik-baik, beliau ngurus penyakit, minyak, air, udara, sampai beliau ngurusin gledek, dewa zeus, nangis, nggak ada kerjaan. Makanya sekarang Zeus ngurus judi.
+
+Dan setiap kali kita ngomongin keresahan, kenapa Pak Luhut lagi Pak Luhut lagi, selalu ada suara-suara yang bilang, “Loh, nggak apa-apa dong, kan beliau kerjanya bagus, kan beliau bisa diandalkan, kan kalau beliau kerja langsung beres.” Saya terbang dari Jakarta, Jakarta masih polusi. Ada satu hari 4 atau 5 hari yang lalu, Jakarta langitnya biru, sempat tuh satu hari itu. Terus akun-akun dengan angka keriting di belakang langsung bilang, “Terima kasih Opung, terima kasih Pak Luhut, Pak Luhut terbaik, Pak Luhut beres.” Besoknya sampai sekarang polusi, hilang tuh akun-akun.
+
+Ternyata, sebuah ada sebuah layanan udara, bilang bahwa bahwa ketika langit biru faktor penentunya adalah angin. Biru gara-gara angin, bukan karena Pak Luhut. Kecuali Pak Jokowi nunjuk Pak Luhut untuk ngurus angin, nah itu beda lagi. Pak Jokowi siap? Ternyata pawang. Mungkin nggak? Mungkin nggak ada pawang Batak? Tidak ada. Emang nggak ada, nggak mungkin.
+
+Terus ada yang bilang, “Ya nggak apa-apa dong, kan emang tupoksinya, kan emang ranahnya Pak Luhut Menko Marves, semuanya emang ada di ranah itu. Nggak salah dong, kenapa Panji berisik?” Nah ini penting sekali untuk kita semua sadari. Mari kita ingat baik-baik, beliau adalah Menko Marves. Oke, tapi ingat nggak waktu beliau ditunjuk untuk ngurus PPKM Jawa Bali? Menko Marves disuruh ngurusin PPKM Jawa Bali, itu berarti kita sekarang tahu bahwa pemerintah melihat Covid dari perspektif bisnis dan investasi, bukan dari kesehatan. Yang disuruh Menko Marves berarti yang dikawatirkan adalah ekonomi, bukan nyawa. Uang memang penting, tapi kan kita perlu hidup ya. Saya kena Covid tiga kali, loh. Kena empat kali mati saya, yang sederhana.
+
+Tapi ini bukan cuman ada di satu menteri saja, kita tahu kemarin KLHK, Kementerian Lingkungan Hidup, itu bikin pernyataan ketika polusi Jabodetabek lagi rame-ramenya. Katanya sudah waktunya kita beralih pakai mobil listrik. Hubungannya apa? Hubungannya apa Kementerian Lingkungan Hidup nyuruh kita beli mobil listrik? Hubungannya apa mobil listrik sama solusi masalah? Untuk yang nggak tahu, ini ibaratnya Jakarta semua riset tahu bahwa di sebelah sana ada PLTU batubara, ada pabrik, dan segala macamnya itu polusinya masuk ke Jakarta dari situ, daripada baru, bukan dari Jakarta. Untuk yang nggak ngerti gini konteksnya, misalnya kita lagi rapat ada meja panjang, sebelah sana ada yang kentut, kentutnya sampai tengah. Kita bilang, “Bos, bau kentut,” bosnya bilang, “Makanya beli mobil listrik.” Hubungannya apa? Enggak ada hubungannya. Selesai. Ini tuh yang kentut.
+
+Aneh kan? Aneh. Bukan cuma satu dua menteri. Bapak Erick Thohir. Pak Erick Thohir ini lucu ya, jadi ketua PSSI seakan-akan kerjaannya di BUMN itu udah selesai, udah beres. Bocah aja tahu, selesain dulu PR-nya baru main bola. Apa sih emang masalah BUMN? Lah kemarin itu ada bapak-bapak nangis, rumahnya mau disita karena BUMN ngutang sama dia nggak bayar-bayar, ya kan? Bagaimana dengan kekhawatiran rakyat Indonesia ada banyak komisaris-komisaris titipan di BUMN? Kita semua tahu yang waktu itu sempat ramai dibahas adalah ketika Abdi Slank jadi komisaris Telkom.
+
+Abdi Slank. Kalau kita baca berita sekarang disebutnya udah bukan Abdi Slank, di berita-berita disebutnya Abdi Telkom. Gokil, Abdi Telkom. Abdi Telkom. Sekarang kalau ketemu Abdi, Abdi Slank, nggak nengok dia. Abdi Slank. Abdi Slank. Panggil Abdi Telkom. Abdi Telkom saya itu gitu.
+
+Kita bingung kan? Saya banyak dibantu sama Abdi, Abdi banyak saya bantu. Kita tahu kemampuan masing-masing. Sehat aja bingung, kenapa jadi komisaris Telkom? Saya baca berita katanya karena beliau peduli dunia digital. Ya kita juga semua peduli, kan? Semua peduli. Saya punya teman namanya Bonar, mana dia? Kerjanya main Mobile Legends. Peduli dia. Peduli dengan digital.
+
+Soalnya rakyat Indonesia musti nitipin kekhawatiran sama capres ini, takut ada jabatan-jabatan yang dikasih karena ungkapan terima kasih. Masa jadi menteri karena balas budi? Karena balas budi. Balas budi.
+
+Kalau Panji yang disuruh stand-up ini isinya ada, terima aja. Orang karena beliau adalah ketua relawan kan, ketua relawan Jokowi, ketua relawan. Bertanya-tanya kan kualifikasinya, kan namanya relawan kan rela. Relawan nih, untuk bayangan ini acara Mata Najwa pasti ada relawannya banyak. Salah satunya relawan yang urusan, lo relawan tuh dia tuh. Dia relawan untuk acara ini, tapi sebagus-bagusnya Ipal kerja di Mata Najwa, tahun depan kan nggak jadi Mata Ipal dong.
+
+Gimana sih? Kan relawan.
+
+Tapi kita semua ini kayak gini karena sebenarnya kita pikir-pikir, aduh, ini jabatan banyak banget yang diberikan kepada satu orang. Di satu sisi kita bisa berpikir, oh mungkin Pak Luhut memang orang kepercayaan Pak Jokowi. Tapi itu juga berarti ada banyak orang yang nggak dipercaya Pak Jokowi. Nggak lebih ke kasihan aja sama menteri-menteri lain gitu loh. Coba bayangin, menteri-menteri lain lagi pada ngumpul, ibarat kata nih menteri-menteri lain ngumpul pada ngobrol, pernah dibilang, “Kok kita nggak dapat jabatan lainnya?” Erick Thohir bilang, “Padahal saya bisa loh megang BUMN sama PSSI.” Sebelah sini Pak Luhut ngeliatin, “Apa sih?”
+
+Sekarang gini deh, kita diskusi aja, untuk semua jabatan yang diterima Pak Luhut menurut kita, menurut kita itu Pak Jokowi yang ngasih atau Pak Luhut yang minta? Kalau menurut saya nggak mungkin dua-duanya. Nggak mungkin dua-duanya. Bos macam apa yang kepikiran ngasih puluhan tugas ke satu orang, sebaliknya anak buah macam apa yang mau terima puluhan tugas? Nggak masuk akal kan? Kalau kita pikir-pikir, nggak masuk akal. Jangankan Pak Jokowi dan Pak Luhut, perusahaan saya kalau satu orang saya kasih puluhan tugas saya di-spill di TikTok, viral pasti, “Bos bangsat, 17 karyawan tugas, bos gila.”
+
+Makanya saya curiga, jangan-jangan Pak Luhut punya akun alter. Kayaknya ya setiap kali dikasih tugas sama Pak Jokowi beliau ngetren.
+
+Sebenarnya ya, sebenarnya kita enggak usah khawatir, kita enggak usah pusing. Seandainya kita berdamai aja, emang kita tuh negara parlementer. Parlementer ke Singapura, ada presiden, ada perdana menteri. Presiden kepala negara, perdana menteri kepala pemerintahan. Kepala pemerintahan adalah yang menjalankan pemerintahan, kepala negara datang ke acara-acara seremonial. Tidakkah sekarang seperti itu?
+
+Seperti kan kita tahu nih, jabatan-jabatan Pak Luhut apa aja dan kita tahu, Pak Jokowi tebak-tebakannya apa aja, ya kan

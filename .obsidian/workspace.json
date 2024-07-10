@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "8423568e91321936",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2da51c759f2d286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c23ac04b0396d76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Resume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b17d54aa18f88e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internship Accenture/Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b6e8d8c40fd274d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6654766bb7dae66f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6bceebe196b38d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a421a1d10d6e9f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "526ba9074ef3f6cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "7e11258670b728b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aba93ea5b0a31c3",
+        "type": "tabs",
+        "dimension": 59.16030534351145,
+        "children": [
+          {
+            "id": "21dedb905f445cf0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Internship Accenture/Intro.md"
+              }
+            }
+          },
+          {
+            "id": "7f0420352372dc95",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d5d31a9b074d017",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Internship Accenture/Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0b8f92ce4c91400",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Internship Accenture/Intro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ccf0e52a9e901abd",
+        "type": "tabs",
+        "dimension": 40.839694656488554,
+        "children": [
+          {
+            "id": "4a7a3780f41a3486",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e420e1b79c937a4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b17d54aa18f88e7b",
+  "lastOpenFiles": [
+    "My-Second-Brain-Vault",
+    "Internship Accenture",
+    "My Resume.md",
+    "Internship Accenture/Intro.md",
+    "My Resume (conflict 2024-07-07-09-59-00).md",
+    "Scikit-learn.md",
+    "SDGs.md",
+    "Why Not You..md",
+    "Today.md",
+    "Inbox.md",
+    "Ide Design.md",
+    "Interview.md",
+    "Joke.md",
+    "Kaggle.md",
+    "Kalau saya yang nulis kayak gini.md",
+    "Experience.md",
+    "Materi Pandji pragiwaksono.md",
+    "Mind map gfx.canvas",
+    "System Building.md",
+    "Explain.md",
+    "Home.md",
+    "Latihan menulis.md",
+    "Ayo jadi.md",
+    "Artificial artificial artificial intelligence.md",
+    "Chased my dream.md",
+    "Attachment/Recording 20240629010324.webm",
+    "1. Project/Writing/Mengurai Metrics Apa Itu Presisi, Recall, dan Bagaimana Menginterpretasikanny.md",
+    "1. Project/Writing/Understanding decomposition in Machine learning.md",
+    "1. Project/Writing/Saving Time with Fluent Search.md",
+    "1. Project/Writing/mungkin-notion-bukan-untuk-kamu.mdx",
+    "Tags",
+    "Attachment/gif_of_fluent_search_feature_of_chatgpt_integration-1.gif",
+    "Attachment/Pasted image 20240620230253.png",
+    "Attachment/Pasted image 20240620115539.png",
+    "Untitled.canvas",
+    "Home.docx",
+    "Semester 3",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

@@ -1,0 +1,5 @@
+Metode lain yang umum digunakan untuk mengatasi missing value ialah metode imputation. Metode ini bekerja dengan cara mengisi (fill) missing value dengan nilai tertentu. Hal ini tentunya akan mencegah hilangnya informasi akibat missing value.
+
+Pada data kontinu, kita bisa menggunakan nilai mean, median, atau mode sebagai pengganti missing value. Jika bekerja menggunakan data kategoris, kita dapat mengisi missing value dengan kategori yang paling sering muncul. Namun, perlu diingat bahwa pemilihan nilai pengganti ini harus didukung oleh background knowledge dari data tersebut. Pada beberapa kasus ada suatu nilai tertentu yang digunakan untuk mengganti missing value.
+
+Sebagai library andalan kita, pandas telah menyediakan sebuah method bernama fillna() untuk mengganti missing value dengan nilai tertentu (Dokumentasi: pandas.DataFrame.fillna).

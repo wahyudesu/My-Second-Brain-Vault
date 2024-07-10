@@ -1,0 +1,3 @@
+reuters.com
+flowingdata
+statista

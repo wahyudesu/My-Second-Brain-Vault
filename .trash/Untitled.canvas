@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"97e09331440bde9a","x":-460,"y":140,"width":100,"height":60,"type":"text","text":"GURU"},
+		{"id":"287b00a6ff276562","x":-260,"y":-300,"width":250,"height":60,"type":"text","text":"mengumpulkan ujian abcd"},
+		{"id":"97b6a2e43a8b4317","x":-80,"y":140,"width":240,"height":60,"type":"text","text":"Detail lengkap informasi tiap mahasiswa"},
+		{"id":"b5287189b12a4d44","x":-460,"y":-160,"width":100,"height":60,"type":"text","text":"SISWA\n"},
+		{"id":"6510e6ff6612f8fe","x":-80,"y":60,"width":200,"height":60,"type":"text","text":"Detail singkat informasi individu"},
+		{"id":"65b9000d541d58a0","x":-330,"y":-420,"width":610,"height":60,"color":"1","type":"text","text":"Pengembangan Sistem Otomatisasi Penilaian Berbasis Artificial Intelligence"},
+		{"id":"c537c6f07a36b6c9","x":260,"y":119,"width":200,"height":60,"type":"text","text":"Saran/Koreksi (Ai)"},
+		{"id":"17e94242a1c7eefc","x":175,"y":-296,"width":145,"height":60,"type":"text","text":"Penilain  (Ai)"},
+		{"id":"d57e670c76de26d7","type":"text","text":"Sistem Rekomendasi ","x":-330,"y":240,"width":610,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"725826725d2a44df","fromNode":"b5287189b12a4d44","fromSide":"right","toNode":"287b00a6ff276562","toSide":"left"},
+		{"id":"48f1dd5f84d6c50f","fromNode":"97e09331440bde9a","fromSide":"right","toNode":"97b6a2e43a8b4317","toSide":"left","label":"memasukkan tugas"},
+		{"id":"6ead5d4f6e9eed5f","fromNode":"b5287189b12a4d44","fromSide":"right","toNode":"6510e6ff6612f8fe","toSide":"left","label":"mengumpulkan tugas"},
+		{"id":"5198bf69462450db","fromNode":"6510e6ff6612f8fe","fromSide":"right","toNode":"c537c6f07a36b6c9","toSide":"left"},
+		{"id":"237f3466b4336618","fromNode":"97b6a2e43a8b4317","fromSide":"right","toNode":"c537c6f07a36b6c9","toSide":"left"},
+		{"id":"2d3f55a50e11a445","fromNode":"287b00a6ff276562","fromSide":"right","toNode":"17e94242a1c7eefc","toSide":"left"}
+	]
+}

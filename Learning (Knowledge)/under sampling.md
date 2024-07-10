@@ -1,0 +1,2 @@
+#machinelearning 
+adalah teknik pengambilan sampel yang mengurangi jumlah data dari kelas mayoritas dalam suatu populasi. Teknik ini dilakukan untuk menyeimbangkan kelas-kelas dalam populasi, sehingga hasil pembelajaran mesin dapat lebih akurat.

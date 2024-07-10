@@ -1,0 +1,7 @@
+cross-validation pergi lebih jauh dengan membagi dataset menjadi beberapa lipatan atau "fold." Proses ini melibatkan pelatihan dan pengujian model sebanyak lipatan yang ada. Pada setiap iterasi, salah satu lipatan digunakan sebagai data pengujian, sementara yang lainnya digunakan sebagai data pelatihan. Ini berarti model akan diuji dengan semua data dalam dataset secara bergantian.
+
+Hasil dari setiap iterasi diambil dan dihitung rata-rata atau metrik kinerja lainnya. Ini memberikan gambaran yang lebih baik tentang seberapa baik model dapat menggeneralisasi pada data yang berbeda-beda. Cross-validation membantu menghindari masalah seperti overfitting, di mana model terlalu cocok dengan data pelatihan tetapi tidak dapat melakukan prediksi yang baik pada data baru.
+
+Teknik cross-validation yang umum digunakan adalah "k-fold cross-validation," di mana dataset dibagi menjadi k lipatan, dan model diuji k kali. Hasil dari masing-masing pengujian digunakan untuk mengukur kinerja keseluruhan model.
+
+Dengan kata lain, cross-validation adalah cara yang penting dalam menguji dan memvalidasi model statistik atau algoritma pembelajaran mesin Anda untuk memastikan bahwa mereka dapat digunakan dengan baik untuk data yang belum pernah dilihat sebelumnya.

@@ -1,0 +1,7 @@
+- [ ] Tahajjud
+- [ ] Shubuh di masjid
+- [ ] Ngaji
+- [ ] Habit belajar hal baru
+- [ ] Olahraga
+- [ ] Fokus 2 Jam fokus bekerja/mengerjakan tanggung jawab
+- [ ] Fokus 90 Menit fokus 

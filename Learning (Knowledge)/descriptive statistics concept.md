@@ -1,0 +1,4 @@
+- Measuring central tendency untuk mengidentifikasi nilai khas atau sentral dalam sebuah data.
+- Measuring dispersion untuk menilai variabilitas atau sebaran nilai dalam sebuah data. 
+- Measuring asymmetric untuk menilai ketidaksimetrisan dalam sebuah distribusi data.
+- Data relationship untuk mengidentifikasi hubungan dua atau lebih feature/column/variable dalam sebuah data.

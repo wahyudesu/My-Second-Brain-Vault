@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"2776e79a8df2e6d6","type":"text","text":"**Header**","x":-540,"y":110,"width":120,"height":50},
+		{"id":"d506a2aae1a78977","type":"text","text":"**Footer**","x":-410,"y":110,"width":120,"height":50},
+		{"id":"c566c7685dcd9733","type":"text","text":"**Header**","x":-410,"y":165,"width":120,"height":50},
+		{"id":"16212ae52b7d56fc","type":"text","text":"**Header**","x":-540,"y":165,"width":120,"height":50},
+		{"id":"3c3d565fc78229a5","type":"text","text":"# Element wajib\n1. Character\n2. Background\n3. Font\n4. Shape\n5. Font\n6. ","x":-545,"y":-437,"width":250,"height":244},
+		{"id":"af3e8b0f61255533","type":"text","text":"# Character\n1. Full Body\n2. Setengah badan\n\nOpsional:\n","x":-545,"y":-172,"width":250,"height":252},
+		{"id":"0ebe776d133a79ba","type":"text","text":"**Light theme**","x":-260,"y":-437,"width":160,"height":50},
+		{"id":"5c0dd01c71485853","type":"text","text":"## 4:5","x":71,"y":-437,"width":89,"height":50,"color":"3"},
+		{"id":"e33c6909081d2035","type":"text","text":"## 16:9","x":160,"y":-437,"width":100,"height":50,"color":"3"},
+		{"id":"e95175766f6fb056","type":"text","text":"## 1:1","x":260,"y":-437,"width":80,"height":50,"color":"3"},
+		{"id":"11dee02039415b84","type":"text","text":"**Dark theme**","x":-100,"y":-437,"width":160,"height":50},
+		{"id":"8b5d3e9d37b2f10f","type":"text","text":"Karakter di kiri","x":-260,"y":-375,"width":160,"height":60,"color":"3"},
+		{"id":"526c16f8cbf72ac3","type":"text","text":"Karakter di tengah","x":-100,"y":-375,"width":200,"height":60,"color":"3"},
+		{"id":"b91bb02358c538b7","type":"text","text":"Karakter di kanan","x":100,"y":-375,"width":200,"height":60,"color":"3"},
+		{"id":"0b53c13ba633ad37","type":"text","text":"Element umum:\nLine, icon, multiple color, grid, ","x":-545,"y":240,"width":250,"height":180},
+		{"id":"3b3c654e386c1d0f","type":"file","file":"Ide Design.md","x":-270,"y":240,"width":250,"height":50},
+		{"id":"7850679a6d018c38","x":-260,"y":-300,"width":115,"height":60,"type":"text","text":"Big Font"},
+		{"id":"919cb6ac70773ab4","type":"text","text":"Big Text","x":-135,"y":-300,"width":115,"height":60}
+	],
+	"edges":[]
+}
