@@ -6,3 +6,8 @@
 ## What you'll do
 - Meet your Accenture team, including the industry, IPO and data experts
 - Read and analyze a client project brief to understand the client and business problem, identify the requirements that need to be delivered, and identify which tasks you need to focus on as a data analyst
+
+[[Task 1 - Project Understanding]]
+[[Task 2 - ]]
+[[Task 3 ]]
+[[Task 4 ]]

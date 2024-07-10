@@ -5,5 +5,6 @@
   "attachmentFolderPath": "Attachment",
   "showRibbon": true,
   "newFileLocation": "current",
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "alwaysUpdateLinks": true
 }

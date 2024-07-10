@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Resume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b17d54aa18f88e7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Internship Accenture/Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,15 +175,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "b17d54aa18f88e7b",
+  "active": "8c23ac04b0396d76",
   "lastOpenFiles": [
+    "Internship Accenture/Task 4.md",
+    "Internship Accenture/Intro.md",
+    "Internship Accenture/Task 3.md",
+    "Internship Accenture/Task 1 - Project Understanding.md",
+    "Internship Accenture/Task 2 -.md",
+    "My Resume.md",
+    "Attachment/Pasted image 20240710164159.png",
+    "Attachment/Pasted image 20240710164144.png",
     "My-Second-Brain-Vault",
     "Internship Accenture",
-    "My Resume.md",
-    "Internship Accenture/Intro.md",
     "My Resume (conflict 2024-07-07-09-59-00).md",
     "Scikit-learn.md",
     "SDGs.md",
@@ -219,9 +213,6 @@
     "Artificial artificial artificial intelligence.md",
     "Chased my dream.md",
     "Attachment/Recording 20240629010324.webm",
-    "1. Project/Writing/Mengurai Metrics Apa Itu Presisi, Recall, dan Bagaimana Menginterpretasikanny.md",
-    "1. Project/Writing/Understanding decomposition in Machine learning.md",
-    "1. Project/Writing/Saving Time with Fluent Search.md",
     "1. Project/Writing/mungkin-notion-bukan-untuk-kamu.mdx",
     "Tags",
     "Attachment/gif_of_fluent_search_feature_of_chatgpt_integration-1.gif",
